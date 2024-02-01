@@ -1,11 +1,7 @@
-b) A Scrum master is responsible for ensuring that the Scrum team follows the processes that were agreed upon. Keeping obstacles and distractions out of the team's path is one of the responsibilities of the Scrum master. and scrum master role is 
+c) There is sprint plan meeting, daily standup meeting, and spring review meeting.
 
-The scrum master's role in supporting product owners in the following aspects:
+For sprint plan meeting, people need to discuss the goal of the project and whom in charge of which part.
 
-    Find methods to effectively manage the product backlog.
+For daily standup meeting. People discuss what he need to do today. and What did I do at the end of day meeting.
 
-    Help communicate the owner’s wish-list to the project team.
-
-    Arrange and optimize product backlog.
-
-    Organize scrum events as necessary.
+For spring review meeting. people discuss at the end of the sprint. To evaluate whether the goal is fulfilled and see the accomplishment of each team members. 
