@@ -1,7 +1,2 @@
-c) There is sprint plan meeting, daily standup meeting, and spring review meeting.
-
-For sprint plan meeting, people need to discuss the goal of the project and whom in charge of which part.
-
-For daily standup meeting. People discuss what he need to do today. and What did I do at the end of day meeting.
-
-For spring review meeting. people discuss at the end of the sprint. To evaluate whether the goal is fulfilled and see the accomplishment of each team members. 
+d) 
+Epic perform like folder. It summary the project and include the story, bug, and task. Story is used to explain the goal and end result. But is used to address the problem or thing that impact the project. Task issue is the explanation of the step of processing the project.
