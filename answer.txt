@@ -1,2 +1,13 @@
-d) 
-Epic perform like folder. It summary the project and include the story, bug, and task. Story is used to explain the goal and end result. But is used to address the problem or thing that impact the project. Task issue is the explanation of the step of processing the project.
+a) The scrum master is equivalent to product owner. The role of project owner is responsible for prioritizing and overseeing the development team's tasks and making sure the company derives as much value as possible from the team's work.
+
+b) A Scrum master is responsible for ensuring that the Scrum team follows the processes that were agreed upon. Keeping obstacles and distractions out of the team's path is one of the responsibilities of the Scrum master. and scrum master role is 
+
+The scrum master's role in supporting product owners in the following aspects:
+
+    Find methods to effectively manage the product backlog.
+
+    Help communicate the owner’s wish-list to the project team.
+
+    Arrange and optimize product backlog.
+
+    Organize scrum events as necessary.
